@@ -11,7 +11,7 @@ The project conducted an investigation of different Delta Lake optimization meth
 
 ## 2. Repository
 
-GitHub Repository: [https://github.com/DurlacherT/aws_emr_lakehouse](https://github.com/durlachert/delta-lake-optimization)
+GitHub Repository: [https://github.com/durlachert/delta-lake-optimization/](https://github.com/durlachert/delta-lake-optimization)
 
 ## 3. Objectives
 
