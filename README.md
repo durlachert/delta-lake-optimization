@@ -47,7 +47,7 @@ Deploy an Apache Spark and necessary dependencies for Delta Lake.
 
 ### Data Ingestion:
 
-Load datasets into tables using both Iceberg and Delta Lake formats.
+Load datasets into tables using Delta Lake format.
 
 ### Performance Metrics:
 
