@@ -43,6 +43,8 @@ Generate synthetic datasets of varying sizes to simulate real-world big data sce
 
 ### Cluster Setup:
 
+![Project Logo](sparkcluster.png)
+
 Deploy an Apache Spark and necessary dependencies for Delta Lake.
 
 ### Data Ingestion:
